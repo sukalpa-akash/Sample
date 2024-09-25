@@ -173,6 +173,13 @@
         height: 100%;
         object-fit: cover;
     }
+    .civil{
+        margin-left: -220px;
+    }
+    .kas{
+        margin-left: 30px;
+    }
+   
 }
 
 #header-carousel .carousel-indicators [data-bs-target] {
@@ -508,6 +515,7 @@
     width: 1000px;
      height: 500px;
      margin-left: 80px;
+     display: none;
 }
 .contact-container{
     height: 100vh;
